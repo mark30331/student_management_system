@@ -1,2 +1,2 @@
-# student_management_sytem
+# student_management_system
 This project includes CRUD operations. 
